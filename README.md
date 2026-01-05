@@ -1,14 +1,14 @@
 # Talkie-AI-chatbot
 TALKIE CHATBOT is an intelligent, interactive web-based chatbot designed to deliver clear, readable, and user-friendly conversational responses. The application focuses on enhancing user experience by presenting information in a structured, legible, and engaging format, making conversations feel natural rather than cluttered or confusing.This chatbot can be integrated into websites or applications to assist users with queries, provide informational responses, and simulate human-like interaction efficiently.
 
-🎯 Key Objectives
+🎯 Key Objectives:
 
 *Provide human-like conversational interaction
 *Ensure clear and well-structured responses
 *Improve readability and user engagement
 *Offer a lightweight and scalable chatbot solution
 
-🚀 Features
+🚀 Features:
 
 💬 Interactive Chat Interface - Clean UI for smooth real-time conversations.
 
@@ -24,15 +24,18 @@ TALKIE CHATBOT is an intelligent, interactive web-based chatbot designed to deli
 
 🛠️ Technology Stack
 
-🌐 Frontend
-HTML – Structure and layout of the chatbot interface
+🌐 Frontend:
 
-CSS – Custom styling for improved UI, readability, and visual appeal
+1.HTML – Structure and layout of the chatbot interface
 
-JavaScript – Handles user interactions, message flow, and API requests
+2.CSS – Custom styling for improved UI, readability, and visual appeal
+
+3.JavaScript – Handles user interactions, message flow, and API requests
 
 ⚙️ Backend & Integration
-Python (Flask) – Acts as the middleware to connect the frontend with the AI API, manage routes, and handle requests/responses securely
+
+4.Python (Flask) – Acts as the middleware to connect the frontend with the AI API, manage routes, and handle requests/responses securely
 
 🧠 AI Engine
-Generative AI API (NLP-based) – Used for generating intelligent, human-like chatbot responses
+
+5.Generative AI API (NLP-based) – Used for generating intelligent, human-like chatbot responses
