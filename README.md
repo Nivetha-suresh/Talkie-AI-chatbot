@@ -11,17 +11,24 @@ TALKIE CHATBOT is an intelligent, interactive web-based chatbot designed to deli
 🚀 Features
 
 💬 Interactive Chat Interface - Clean UI for smooth real-time conversations.
+
 📖 Readable Response Formatting - Responses are presented in bullet points or structured sections instead of long, cluttered paragraphs.
+
 ⚡ Fast Response Generation - Optimized backend ensures minimal response latency.
+
 🌐 Web-Based Accessibility - Accessible from any modern browser without additional installations.
+
 🎨 Customizable UI - Supports background images, themes, and styling for a modern chatbot appearance.
+
 🔄 Extensible Architecture - Easy to integrate APIs, AI models, or domain-specific knowledge bases.
 
 🛠️ Technology Stack
 
 🌐 Frontend
 HTML – Structure and layout of the chatbot interface
+
 CSS – Custom styling for improved UI, readability, and visual appeal
+
 JavaScript – Handles user interactions, message flow, and API requests
 
 ⚙️ Backend & Integration
