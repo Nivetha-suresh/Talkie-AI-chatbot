@@ -34,14 +34,16 @@ def chat():
     return jsonify({"reply": response.text})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
 
 
 # NOTE:
 # to run the app,
-#--->1. Activate the virtual environment: "my_env\Scripts\activate"
+#--->1. Activate the virtual environment: "<env_variable>\Scripts\activate"
 #--->2. run the command: "cd "C:\Users\User\Desktop\chat""
 #--->3. Run the command: "python app.py"
 # if it throws any knid of error reinstall the required libraries
 #--->4. Open your web browser and go to "http://
+
 #--->5. deactivate the virtual environment: "deactivate"
